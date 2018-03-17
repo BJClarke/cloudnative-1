@@ -1,0 +1,60 @@
+<!-- Markdown Navigation -->
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="cloudnative" audience="platform" href="/docs/cloudnative/index.html"}
+클라우드 네이티브 프로젝트 빌드
+
+    {: .navgroup id="learn"}
+    index.md
+    idt/index.md
+    idt/vscode.md
+    idt/jetbrains.md
+
+    {: .topicgroup}
+    시작하기
+        idt/getting_started.md
+        devex.md
+        what_is_new.md
+        compute.md
+        get_code.md
+        services.md
+
+    {: .topicgroup}
+    IBM Cloud CLI용 플러그인
+        idt/index.md
+            idt/local_debug.md
+        sdk/index.md
+            sdk/contribute.md
+
+    {: .topicgroup}
+    튜토리얼
+        tutorials/tutorial_web.md
+        tutorials/tutorial_bff.md
+        tutorials/tutorial_microservice.md
+        tutorials/tutorial_custom.md
+        tutorials/tutorial_mobile.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    idt/commands.md
+    sdk.md
+        sdk_BMSClient.md
+        sdk_network_request.md
+ 
+    {: .topicgroup}
+    Project contents
+        projects/java_project_contents.md
+        projects/swift_project_contents.md
+        projects/node_project_contents.md
+        projects/python_project_contents.md
+        projects/compose_file.md
+   {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    troubleshoot.md
+    [IBM Cloud Slack #developer-tools](https://slack-invite-ibm-cloud-tech.mybluemix.net/)
+    [StackOverflow](http://stackoverflow.com/search?q=bluemix-dev-services+ibm-bluemix)
+    [Getting help](../support/index.html#getting-help)
+    [Contacting support](../support/index.html#contacting-support)
+    {: .navgroup-end}
